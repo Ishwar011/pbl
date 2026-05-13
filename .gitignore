@@ -1,0 +1,7 @@
+venv/
+venv310/
+venv_win/
+__pycache__/
+*.pyc
+sar_db.sqlite
+.env
