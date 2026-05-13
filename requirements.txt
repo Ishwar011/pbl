@@ -5,6 +5,4 @@ pydantic
 streamlit
 requests
 reportlab
-chromadb
-sentence-transformers
 google-generativeai
